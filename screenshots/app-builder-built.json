@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Zenora by Zenvistas",
+      "hasCanvas": false,
+      "bodyTextLen": 4913,
+      "bodyTextHash": "5de725554f1903c71d509f555491109639f3daf26ee9f67837d199ec1f9c92b5",
+      "bodyTextPrefix": "Skip to content GOLDWINS, COIMBATORE Sixty luxury villas on seve",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Zenora by Zenvistas",
+      "hasCanvas": false,
+      "bodyTextLen": 4877,
+      "bodyTextHash": "38c8c7f338c56a597c386379d062a56e5391c0a21f74c6ab8f24454156beaa51",
+      "bodyTextPrefix": "Skip to content GOLDWINS, COIMBATORE Sixty luxury villas on seve",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
